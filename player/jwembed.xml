@@ -1,0 +1,10 @@
+<config>
+ <backcolor>444444</backcolor>
+ <frontcolor>FFFFFF</frontcolor>
+ <screencolor>000000</screencolor>
+ <controlbar>over</controlbar>
+ <bufferlength>5</bufferlength>
+ <autostart>false</autostart>
+ <logo>http://stream.pandamolesto.com/templates/stream/images/watermark.png</logo>
+ <link>http://stream.pandamolesto.com</link>
+</config>
